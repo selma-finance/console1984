@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Using from rubygems from 02-11-2023, not deleted yet in case some build is dependent on it.
+
+- [ ] *Delete repo after 10-11-2023*
+
 ![example workflow](https://github.com/basecamp/console1984/actions/workflows/build.yml/badge.svg)
 
 # Console1984
